@@ -5,3 +5,7 @@
 tech used:
 
 * [flickity](https://www.npmjs.com/package/flickity)
+
+
+
+size: 1000px (width)
